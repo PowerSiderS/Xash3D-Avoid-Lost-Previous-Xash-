@@ -1,2 +1,2 @@
-# xash3d
-Redoma Xash3D-GoldSrc
+# Xash3d
+Just Backup Of APKs & Data (PC/Android)
